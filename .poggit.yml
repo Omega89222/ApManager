@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Omega89222/ApManager
+build-by-default: true
+branches:
+- main
+projects:
+  ApManager:
+    path: ""
+...
